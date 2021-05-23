@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRCore.Mcv.Demo", "SignalRCore.Mcv.Demo.csproj", "{529CE09A-8C60-4021-8ADB-BC95B9A9616D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRCoreChat.Mvc", "..\SignalRCoreChat.Mvc\SignalRCoreChat.Mvc.csproj", "{A50E1658-9CDA-453B-A30F-8B803173A28D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{529CE09A-8C60-4021-8ADB-BC95B9A9616D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{529CE09A-8C60-4021-8ADB-BC95B9A9616D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{529CE09A-8C60-4021-8ADB-BC95B9A9616D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50E1658-9CDA-453B-A30F-8B803173A28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50E1658-9CDA-453B-A30F-8B803173A28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50E1658-9CDA-453B-A30F-8B803173A28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50E1658-9CDA-453B-A30F-8B803173A28D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
